@@ -1,0 +1,15 @@
+Partlist exported from /Users/paulnoel/Desktop/AAPT 2018/PIRA light badge/attiny and 555/pira-badge-attiny3.sch at 5/10/18 10:59 AM
+
+Part Value    Device             Package            Description                          SF_SKU    SPICEPREFIX
+BT1           BATTERY-24.5MM_PTH BATTCON_24.5MM_PTH Battery - Single Cell                PRT-08863            
+C1            CPOL-USCT3216      CT3216             POLARIZED CAPACITOR, American symbol           C          
+D1            LED1206            LED-1206           LED (Generic)                                             
+D2            LED1206            LED-1206           LED (Generic)                                             
+D3            LED1206            LED-1206           LED (Generic)                                             
+D4            LED1206            LED-1206           LED (Generic)                                             
+D5            LED1206            LED-1206           LED (Generic)                                             
+D6            LED1206            LED-1206           LED (Generic)                                             
+D7            LED1206            LED-1206           LED (Generic)                                             
+D8            LED1206            LED-1206           LED (Generic)                                             
+D9            LED1206            LED-1206           LED (Generic)                                             
+U1   ATTINY85 ATTINY85-20S       SOIC8_EIAJ_208MIL  ATMEL ATtiny 85                                           
